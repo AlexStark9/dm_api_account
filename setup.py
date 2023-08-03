@@ -1,7 +1,7 @@
 from distutils.core import setup
 REQUIRES = [
-    'structlog',
-    'records',
+    'requests',
+    'pydantic',
     'allure-pytest'
 ]
 
